@@ -12,7 +12,7 @@ import java.io.Serializable;
 
 public class LoginHelper implements Serializable {
     
-
+ //cambio
     /**
      * Metodo para hacer login llamara a la instancia de usuarioFacade
      * @param correo
